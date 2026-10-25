@@ -1,2 +1,2 @@
 # college-repository
-Our college is very beautiful.
+Our college is very big.
